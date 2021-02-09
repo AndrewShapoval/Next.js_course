@@ -1,0 +1,10 @@
+{
+  "posts": [
+    {"id": 1, "title": "JavaScript post", "body": "vjwenbv 3gnb3jhng 3hn5j4hn 3nhn35nhn5hj"},
+    {"id": 2, "title": "ReactJS post", "body": "uwrb urugi34ibgbiui43b bu33 3ngn35on 3n34t44"},
+    {"id": 3, "title": "Next.js post", "body": "jrjbj rggnrjbgjk rrgb3k5jb kj3bgkh5b 5kgbg53vr"}
+  ],
+  "about": {
+    "title": "Page for us"
+  }
+}
